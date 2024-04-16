@@ -4,6 +4,5 @@ admin:
   email: admin@admin.com
   password: admin
 bot:
-  token: group_token
-  group_id: 1
-
+  token: vk1.a.3081G7TVLENpx-mmOjheum6B7oZ19KGi_O-pvobVlO20EA7eV2FDcoqfpJFyPPnpmW5CZw7q6FkXm3bH40sNcm_kjJ6TM5V_IZF_kATxWHnlfH2BudSFE4GQMKsMzompjrzg3hQO0g15ZbzXtew7W3k_kt6GGNgBNaiyl9Vp1gnZqI9VNBdJjW87bpq_VfmkzoWyMnQ6gBnkzNwD67CBEg
+  group_id: 225570102
